@@ -1,5 +1,5 @@
 # transitionAnimation
-自定义转场动画
+自定义转场动画   不是自己的原创代码。
 
 当一个controllerA push 到另外一个controllerB 。
 在controllerA 里面遵守协议。 uinavigationcontrollerdelegate ，在协议方法里面 拦截，返回一个 遵守uiviewcontrollercontexttransitioning协议的对象。
